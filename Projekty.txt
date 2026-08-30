@@ -1,0 +1,97 @@
+Przykładowe tematy projektów. Proszę wpisywać się pod tematem (2 osoby na temat).
+Można zaproponować swój temat i dopisać go na dole.
+Zasady zapisu przez Pull Request opisane są w README.md.
+
+Tematy projektów:
+
+Kategoria A: Symulacje i Systemy "Smart" (Wysoki potencjał na polimorfizm)
+
+1) Smart Home: Symulator centrali sterującej urządzeniami IoT (światło, rolety, czujniki, termostat) z obsługą scenariuszy i harmonogramów.
+
+2) System Windy w Wieżowcu: Algorytm sterujący grupą wind obsługujących wiele pięter z priorytetyzacją wezwań.
+
+3) Inteligentne Skrzyżowanie: Symulacja ruchu drogowego z sygnalizacją świetlną adaptującą się do natężenia ruchu i pojazdów uprzywilejowanych.
+
+4) Automat Vendingowy: Symulator maszyny z napojami/przekąskami obsługujący stan magazynowy, płatności i wydawanie reszty.
+
+5) System Zarządzania Parkingiem: Obsługa wjazdu/wyjazdu, naliczanie opłat, wykrywanie wolnych miejsc i abonamentów.
+
+6) Ekosystem (Wirtualne ZOO): Symulacja interakcji między gatunkami zwierząt (drapieżnik/ofiara) w zamkniętym środowisku.
+
+7) Wieża Kontroli Lotów: Kolejkowanie startów i lądowań samolotów o różnych priorytetach i zużyciu paliwa.
+
+8) Symulator Linii Produkcyjnej: Zarządzanie procesem montażu produktu z różnych komponentów na kilku stacjach roboczych.
+
+9) System Alarmowy Budynku: Obsługa czujników ruchu, dymu i otwarcia z podziałem na strefy i powiadamianiem odpowiednich służb.
+
+10) Stacja Ładowania Pojazdów Elektrycznych: Zarządzanie punktami ładowania, mocą przyłączeniową i kolejką oczekujących aut.
+
+Kategoria B: Usługi i Zarządzanie (Idealne na Diagramy Przypadków Użycia)
+
+11) System Rezerwacji Hotelowej: Zarządzanie pokojami różnych typów, rezerwacjami, gośćmi i usługami dodatkowymi (SPA, posiłki).
+
+12) Wypożyczalnia Samochodów: Obsługa floty pojazdów, wynajmów, zwrotów, przeglądów technicznych i kar za uszkodzenia.
+
+13) System Obsługi Paczkomatów: Logistyka paczek, kurierów, skrytek o różnych gabarytach i kodów odbioru.
+
+14) System Gabinetu Lekarskiego: Grafik wizyt, kartoteka pacjentów, przypisywanie lekarzy i generowanie recept.
+
+15) System Biblioteczny / Mediateka: Wypożyczanie książek/multimediów, naliczanie kar za przetrzymanie i rezerwacje online.
+
+16) Aplikacja do Zamawiania Jedzenia: Obsługa restauracji, menu, koszyka klienta, statusu zamówienia i dostawcy.
+
+17) System Dziekanatu / e-Dziennik: Zarządzanie studentami, przedmiotami, ocenami, stypendiami i planem zajęć.
+
+18) Zarządzanie Magazynem Hurtowni: Przyjęcia towaru, wydania, inwentaryzacja, ostrzeganie o niskim stanie i lokalizacja na półkach.
+
+19) System Kasowy (POS) w Sklepie: Skanowanie produktów, rabaty, różne metody płatności, drukowanie paragonów i zwroty.
+
+20) Serwis Streamingowy (a'la Spotify): Zarządzanie użytkownikami, playlistami, biblioteką utworów i subskrypcjami.
+
+Kategoria C: Gry i Rozrywka (Najciekawsze na Diagramy Sekwencji)
+
+21) Gra RPG (Turowa Arena): Walka drużyny bohaterów (różne klasy: Mag, Wojownik) z potworami z systemem ekwipunku i statystyk.
+
+22) Gra Karciana (Blackjack/Poker): Tasowanie talii, rozdawanie, logika rąk, licytacja i obsługa żetonów graczy.
+
+23) System Rezerwacji Biletów Kinowych: Wybór filmu, sali, konkretnych miejsc na planie i obsługa różnych typów biletów.
+
+24) Wirtualny Portfel Inwestycyjny: Symulator giełdy, kupno/sprzedaż akcji, historia transakcji i wyliczanie zysku/straty.
+
+25) Gra Strategiczna (Map Editor): Edytor mapy z różnymi typami terenu, jednostkami i budynkami (zapis/odczyt stanu).
+
+26) Quiz / Generator Egzaminów: Baza pytań różnych typów (jednokrotne, wielokrotne), losowanie zestawów i ocenianie wyników.
+
+27) Gra Planszowa (np. Monopoly uproszczone): Plansza, pionki, rzuty kostką, kupowanie pól i obsługa bankructwa.
+
+28) System Turniejowy: Generowanie drabinki rozgrywek, wprowadzanie wyników meczów i wyłanianie zwycięzcy.
+
+29) Wirtualny Tamagotchi: Opieka nad stworkiem (karmienie, zabawa, leczenie), który zmienia stan w czasie rzeczywistym.
+
+30) Komunikator Tekstowy (Chat): Obsługa użytkowników, wiadomości prywatnych, grupowych, statusów obecności i historii.
+
+Kategoria D: Tematy bardziej techniczne (sieci, systemy, niższy poziom)
+
+31) Symulator Sieci Komputerowej: Model węzłów, łączy i routingu pakietów (np. najkrótsza ścieżka) między urządzeniami w topologii sieci.
+
+32) Mini Serwer HTTP: Prosty serwer obsługujący żądania GET/POST, routing ścieżek i serwowanie plików statycznych (z użyciem gniazd/Sockets).
+
+33) System Kolejkowania Zadań (Task Scheduler): Wieloczłonowa kolejka zadań z priorytetami, wątkami roboczymi (worker threads) i obsługą zależności między zadaniami.
+
+34) Symulator Systemu Plików: Struktura drzewa katalogów/plików w pamięci, operacje (utwórz, usuń, przenieś, prawa dostępu) i serializacja do pliku.
+
+35) Rozproszony System Czatu (Klient-Serwer): Komunikacja wielu klientów przez gniazda sieciowe, pokoje rozmów, obsługa rozłączeń.
+
+36) Silnik Reguł Biznesowych (Rule Engine): System ewaluujący zestaw konfigurowalnych reguł (warunek -> akcja) nad strumieniem zdarzeń wejściowych.
+
+37) System Zarządzania Sprzętem Sieciowym Korporacji: Inwentaryzacja urządzeń (routery, switche, access pointy), monitorowanie statusu, rejestrowanie konfiguracji portów.
+
+38) Mini Baza Danych (Key-Value Store): Własna implementacja przechowywania danych klucz-wartość z indeksowaniem, zapisem do pliku (WAL) i prostym językiem zapytań.
+
+39) System Monitoringu Zasobów (Mini APM): Zbieranie metryk (CPU, pamięć, wątki) z symulowanych procesów, alerty progowe i agregacja w czasie.
+
+40) Symulator Giełdy Kryptowalut (Order Book): Silnik dopasowywania zleceń kupna/sprzedaży (matching engine), księga zleceń, historia transakcji.
+
+Kategoria E: Propozycje własne studentów.
+
+(Miejsce na własne tematy - dopiszcie temat i swoje imiona i nazwiska poniżej, zgodnie z zasadami zapisu z README.md)
